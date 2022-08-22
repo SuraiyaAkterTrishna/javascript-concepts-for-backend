@@ -5,7 +5,7 @@
  * 3. rejected
  */
 
-// Promise create 
+// Single Promise create 
 
 const myPromise = new Promise((resolve, reject) => {
     const user = { id: 1 };
